@@ -6,4 +6,4 @@ built a file compression in rust. to use, pass the arguements when running main.
 ```cargo run <file_name>  <target>```
 
 
-### 2. A FIle Decompression
+### 2. A File Decompression
