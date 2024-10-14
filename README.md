@@ -23,3 +23,6 @@ built a csv file reader. it runs when the ```cmd``` is ran as
 ### 4. Read JSON Data
 Rust program that reads JSON.
 ###### TODO: change the ```.unwrap()``` to use ```.unwrap_or()``` to provide default value and not panic when no value at None
+
+### 5. Get Request
+A get request created using Rust. It returns the Status, BOdy and Headers
